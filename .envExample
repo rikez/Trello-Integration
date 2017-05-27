@@ -1,0 +1,18 @@
+
+# MYSQL
+DB_HOST=localhost
+DB_USER=
+DB_PASS=
+DB_PORT=3306
+DB_NAME=
+DB_DIALECT=mysql
+
+#SQLITE
+STORAGE=reports.sqlite
+
+ENVIRONMENT=development
+
+TRELLO_API_KEY=
+TRELLO_USER_KEY=
+
+
